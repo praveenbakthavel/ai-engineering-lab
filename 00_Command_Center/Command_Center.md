@@ -32,7 +32,7 @@ Planned technologies may include Python, LangChain, LangGraph, vector databases,
 ## Development Guidelines
 
 - Keep this repository inactive until the roadmap reaches the AI Engineering phase.
-- Do not duplicate work in `rag-projects` or `ai-agents`.
+- Do not split future AI engineering work into duplicate active repositories.
 - Keep examples public-safe and avoid private strategy, resume archives, credentials, or confidential data.
 
 ## Future Enhancement Areas
