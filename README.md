@@ -4,17 +4,9 @@ This repository is the consolidated future AI engineering workspace.
 
 It will contain RAG, AI agents, document extraction, evaluation, prompts, and assistant workflow experiments under one repository.
 
-This repository replaces the need for separate active `rag-projects` and `ai-agents` repositories. Future RAG and AI agent work should live here instead of being split across separate active repositories.
-
 ## Roadmap Position
 
-This is planned for a later roadmap phase.
-
-The current active phase remains:
-
-- Repository: `sql-playground`
-- Project: `projects/marketing`
-- Focus: SQL-first PostgreSQL practice
+This repository is planned for a later roadmap phase. It is intentionally kept as the central home for AI engineering work so future RAG, agent, extraction, evaluation, and assistant patterns remain cohesive.
 
 ## Scope
 
@@ -41,3 +33,11 @@ ai-engineering-lab/
 ├── docs/
 └── tests/
 ```
+
+## Related Repositories
+
+- [sql-playground](https://github.com/praveenbakthavel/sql-playground)
+- [python-playground](https://github.com/praveenbakthavel/python-playground)
+- [data-assets-library](https://github.com/praveenbakthavel/data-assets-library)
+- [data-engineering-projects](https://github.com/praveenbakthavel/data-engineering-projects)
+- [machine-learning-projects](https://github.com/praveenbakthavel/machine-learning-projects)
